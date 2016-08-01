@@ -1,1 +1,1 @@
-# SpotPricing_SlackAware
+# SpotPricing
